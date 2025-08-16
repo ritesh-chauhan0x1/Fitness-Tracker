@@ -41,7 +41,7 @@ vercel --prod
 
 **Ritesh Chauhan**
 - GitHub: [@ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1)
-- LinkedIn: [ritesh-chauhan](https://linkedin.com/in/ritesh-chauhan)
+- LinkedIn: [ritesh-chauhan](https://www.linkedin.com/in/ritesh-chauhan-79818a374/)
 
 ---
 ⭐ Star this repository if you found it helpful
